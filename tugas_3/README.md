@@ -3,8 +3,8 @@
 Tentang Project
 
 ### Screenshot
-![MacamOlahraga](assets/images/1.png)
-![MacamOlahraga](assets/images/2.png)
+![MacamOlahraga](images/1.png)
+![MacamOlahraga](images/2.png)
 ### Built With
 * [Flutter](https://flutter.dev//)
 ### Materi
